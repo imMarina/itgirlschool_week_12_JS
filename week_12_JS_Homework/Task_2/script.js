@@ -41,3 +41,4 @@ function calculateBMI() {
 }
 
 document.querySelector('#btn').addEventListener('click', calculateBMI);
+// test
